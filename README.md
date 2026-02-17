@@ -41,7 +41,7 @@ Copied to:   root@192.168.2.123
 
 ```
 Token ID:    root@pam!claude-mcp
-Token Value: 55f3e2fc-3670-45ad-ac62-e569d2243382
+Token Value: <your-token-value>
 Privsep:     0 (full privileges)
 ```
 
@@ -75,7 +75,7 @@ Privsep:     0 (full privileges)
         "PROXMOX_PORT": "8006",
         "PROXMOX_USER": "root@pam",
         "PROXMOX_TOKEN_NAME": "claude-mcp",
-        "PROXMOX_TOKEN_VALUE": "55f3e2fc-3670-45ad-ac62-e569d2243382",
+        "PROXMOX_TOKEN_VALUE": "<your-token-value>",
         "PROXMOX_ALLOW_ELEVATED": "true"
       }
     },
