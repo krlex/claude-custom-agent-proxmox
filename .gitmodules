@@ -1,0 +1,3 @@
+[submodule "mcp-servers/proxmox"]
+	path = mcp-servers/proxmox
+	url = https://github.com/gilby125/mcp-proxmox.git
